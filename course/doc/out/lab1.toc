@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теория}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Бинарная мера совместности (покрытия) интервалов.}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Обобщение бинарной меры совместности (покрытия) интервалов.}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Изотопная подпись для некоторых типов органических соединений.}{4}{section.3}%
+\contentsline {section}{\numberline {4}Пример}{6}{section.4}%
+\contentsline {section}{\numberline {5}Заключение}{8}{section.5}%
